@@ -1,4 +1,4 @@
-# spotify-personal-page
+# Spotify Personal Page
 
 Purpose: Create a dashboard for Spotify users to analyze their personal listening data
 
